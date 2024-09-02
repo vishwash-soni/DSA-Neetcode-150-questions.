@@ -5,7 +5,7 @@ This repository contains solutions to the NeetCode 150 DSA questions, categorize
 ## Topics
 
 - [Arrays](Arrays/)
-- [LinkedLists](LinkedLists/)
+- [LinkedLists](https://github.com/vishwash-soni/DSA-Neetcode-150-questions./tree/main/LinkedList)
 - [Trees](Trees/)
 - ...
 
