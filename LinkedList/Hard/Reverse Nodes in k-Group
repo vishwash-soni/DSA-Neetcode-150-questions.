@@ -83,5 +83,12 @@ public:
     }
 };
 
+Time Complexity: O(N), where N is the number of nodes in the linked list. The linked list is traversed once to calculate its length and once more during the reversal process.
+
+Space Complexity: O(N/k) due to recursion. Each recursive call handles a group of k nodes, leading to a recursion depth of N/k in the worst case. This can be optimized to O(1) if the iterative approach is used instead of recursion.
+
+
+*********************************************************** Video Solution ************************************************************
+
 Video Solution : https://youtu.be/vqaO4oIJqnI?si=8JLMrsykK60JJwIb
 
