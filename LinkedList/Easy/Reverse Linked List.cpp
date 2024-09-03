@@ -37,7 +37,7 @@ Given the head of a singly linked list, reverse the list, and return the reverse
 
 The solution uses a recursive approach to reverse the linked list. It works by reversing the rest of the list after the current node, then setting the next node's next pointer to the current node, effectively reversing the link. The base cases are when the head is `NULL` or the list contains only one node.
 
-### C++ Code:
+################################# C++ Code: ###################################################
 
 ```cpp
 /**
