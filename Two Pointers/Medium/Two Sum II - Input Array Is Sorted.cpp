@@ -1,10 +1,10 @@
-Leetcode : 167. Two Sum II - Input Array Is Sorted
+/* Leetcode : 167. Two Sum II - Input Array Is Sorted
 
 ##Time Complexity: O(n) where n is the number of elements in the array. The two-pointer technique allows us to scan the array in linear time.
 
 ##Space Complexity: O(1) since the solution only uses a fixed amount of additional space, regardless of the input size.
 
-############################ C++ ###########################################
+############################ C++ ########################################### */
 
 class Solution {
 public:
